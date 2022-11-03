@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dannyamah
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on anything to help me
 - 📫 How to reach me (d_amah on Instagram)(https://twitter.com/danny_4reel?t=TQxIP8arfQEKFiGdn8FjAA&s=01 on Twitter)(+2347061603960 on WhatsApp)
 
 <!---
