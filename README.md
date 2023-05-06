@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Amah
-- 👀 Backend developer
-- 📫 How to reach me (d_amah on Instagram)(https://twitter.com/danny_4reel?t=TQxIP8arfQEKFiGdn8FjAA&s=01 on Twitter)(+2347061603960 on WhatsApp)
+- 👀 Full Stack developer
+- 📫 
 
 <!---
 Dannyamah/Dannyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
